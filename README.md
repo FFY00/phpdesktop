@@ -2,3 +2,5 @@ PHGDesktop [![Follow](https://img.shields.io/twitter/follow/MyClaraOswin.svg)](h
 ===
 
 Fork from https://code.google.com/p/phpdesktop
+
+###### Not Mantained! Please don't contact me about this
